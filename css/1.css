@@ -268,3 +268,15 @@ p {
   color: #393e46;
   font-size: 100%;
 }
+
+.btn-outline-dark {
+  color: white;
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.btn-outline-dark:hover {
+  color: black;
+  background-color: white;
+  border-color: #343a40;
+}
