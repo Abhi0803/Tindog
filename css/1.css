@@ -49,6 +49,7 @@ h3 {
   font-family: 'Montserrat';
   font-weight: bold;
   font-size: 1.5rem;
+
 }
 
 p {
@@ -146,6 +147,7 @@ p {
 .fonts {
   padding-bottom: 7%;
   color: #ef8172;
+  margin-bottom: 10%;
 }
 
 .fonts:hover {
@@ -219,7 +221,6 @@ p {
 
 .pricing_amount {
   color: #ff847c;
-  font-size: 2.5rem;
   margin-bottom: 8%;
 }
 
@@ -279,4 +280,8 @@ p {
   color: black;
   background-color: white;
   border-color: #343a40;
+}
+
+.cta-font{
+  font-size: 2.5rem;
 }
